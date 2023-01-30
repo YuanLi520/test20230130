@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [AD.PrjPCB]
+   Generated File[AD-RoundHoles.TXT]
+   Generated File[AD-SlotHoles.TXT]
+   Generated File[AD.DRL]
+   Generated File[AD.LDP]
+   Generated File[AD.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 18:50:20 On 2022/11/22

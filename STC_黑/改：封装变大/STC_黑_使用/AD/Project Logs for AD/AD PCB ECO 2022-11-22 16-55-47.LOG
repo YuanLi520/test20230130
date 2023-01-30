@@ -1,0 +1,8 @@
+Added Component: Designator=USART(USB2.0_A)
+Added Pin To Net: NetName=USB5V Pin=USART-1
+Added Pin To Net: NetName=D_P Pin=USART-2
+Added Pin To Net: NetName=D_N Pin=USART-3
+Added Pin To Net: NetName=GND Pin=USART-4
+Added Pin To Net: NetName=GND Pin=USART-5
+Added Pin To Net: NetName=GND Pin=USART-6
+Added Member To Class: ClassName=AD Member=Component USART USB

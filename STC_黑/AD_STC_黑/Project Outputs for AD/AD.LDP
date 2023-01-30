@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\file_pcb_work\º£È¸\AD\AD.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=ad-roundholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=ad-slotholes.txt|LayerPairs=gtl,gbl

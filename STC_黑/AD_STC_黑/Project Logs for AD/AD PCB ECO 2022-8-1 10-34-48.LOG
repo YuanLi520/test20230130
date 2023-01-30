@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=P2.3 Pin=Q6-1
+Removed Pin From Net: NetName=P2.6 Pin=Q8-1
+Removed Pin From Net: NetName=P2.3 Pin=R45-1
+Removed Pin From Net: NetName=P2.6 Pin=R46-1
+Added Pin To Net: NetName=P0.1 Pin=Q6-1
+Added Pin To Net: NetName=P0.2 Pin=Q8-1
+Added Pin To Net: NetName=P0.1 Pin=R45-1
+Added Pin To Net: NetName=P0.2 Pin=R46-1
+Added Room: Name=AD

@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=VCC Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=P0.7 Pin=P2-3
+Added Pin To Net: NetName=P0.5 Pin=P2-4
+Added Pin To Net: NetName=P0.6 Pin=P2-5
+Added Pin To Net: NetName=P0.4 Pin=P2-6

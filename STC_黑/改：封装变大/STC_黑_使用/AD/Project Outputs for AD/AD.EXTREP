@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: AD.GBR   2022/11/22  18:50:09
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GTO                Top Overlay                             
+.GBO                Bottom Overlay                          
+.GTP                Top Paste                               
+.GBP                Bottom Paste                            
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GKO                Keep-Out Layer                          
+.GM1                Mechanical 1                            
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+------------------------------------------------------------------------------------------
